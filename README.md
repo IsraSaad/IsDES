@@ -1,2 +1,3 @@
 # IsDES
-this what I learned through my journy
+This is a photographers Iraq website 
+
